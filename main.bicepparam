@@ -7,7 +7,8 @@ param subscriptionDisplayName = 'mj-sub-app1'
 param subscriptionWorkload = 'DevTest'
 param subscriptionTags = {
   workload: 'app1'
-  owner: 'kuba'
+  owner: 'paulo'
+  project: 'mambo-jambo'
 }
 param subscriptionManagementGroupAssociationEnabled = false
 param subscriptionManagementGroupId = 'main'
