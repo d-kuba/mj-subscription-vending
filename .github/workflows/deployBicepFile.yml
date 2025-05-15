@@ -1,7 +1,7 @@
 name: CD
 on: [push]
 jobs:
-  build-and-deploy:
+  deploy:
     runs-on: ubuntu-latest
     steps:
 
